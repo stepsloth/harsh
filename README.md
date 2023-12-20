@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>Welcome To GFG</title>
+	<title> welcome </title>
 </head>
 
 <body>
